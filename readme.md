@@ -1,6 +1,6 @@
 # Pass It Around
 
-Which card is higher, the card face up or the the face down.
+Take off on the Count down song for the number of bottles of beer on the wall.
 
 #### Technology Used
 
@@ -9,5 +9,6 @@ Which card is higher, the card face up or the the face down.
 - Local Server (3000)
 - .env file
 - .gitignore file
--  github
--  change title on top of page.... to reflect count. 
+- github
+- change title on top of page.... to reflect count. 
+- added link to count down number of bottles
